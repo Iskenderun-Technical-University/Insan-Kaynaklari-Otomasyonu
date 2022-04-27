@@ -2,13 +2,10 @@
 bir otomasyon sistemine sahip olmalıdır.Bu kapsamda işe alım/işten çıkarma gibi işlemler, işe alım için gerekli
 form uygulamaları gibi işlemleri kapsayan bir otomasyon sistemi tasarlıyoruz.Bu otomasyon sisteminde sistem 
 kullanıcılarının bir mesaj kutusu da olacak.Bu sayede birbirleriyle otomasyon üzerinden haberleşebilecekler.
-----------------------------------------------
-	BU PROJEYLE ALAKALI OTOMASYONLAR
-----------------------------------------------
+
 	Bu projenin diğer projelerden farkı otomasyonun aynı zamanda bir haberleşme ağı olabilmesidir.
 Kişiler sahip oldukları mesaj kutusunda kendilerine gelen mesaj/ileti gibi gönderimle alabilecek 
 ve bu gönderimleri yanıtlayabileceklerdir.
-
 
 	Admin ve normal kullanıcı arayüzleri olacak
 Kullanıcı arayüzü bir elemanı işe almak için gerekli formu doldurabilecek.Diğer kullanıcılara mesaj iletebilecek
