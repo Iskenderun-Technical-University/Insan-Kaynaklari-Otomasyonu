@@ -24,6 +24,8 @@ Bu otomasyon geliştirilirken C# ve MsSQL dilleri kullanılacaktır.
 	192503024 - OKAN ALPTÜRK - C# 	
 	192503034 - ABDULKADİR GÜLTEKİN	- Arayüz ve Form Tasarımı	
 	
+	![USE CASE DİAGRAMI](http://url/to/use-case-diagram.png)
+	
 
 	
 	
