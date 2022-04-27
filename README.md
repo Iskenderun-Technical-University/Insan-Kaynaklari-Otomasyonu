@@ -26,7 +26,7 @@ Bu otomasyon geliştirilirken C# ve MsSQL dilleri kullanılacaktır.
 	
 	USE CASE DİAGRAMI 
 	
-	<img src='use-case-diagram.png'>
+	<img src='/use-case-diagram.png'>
 	
 
 	
