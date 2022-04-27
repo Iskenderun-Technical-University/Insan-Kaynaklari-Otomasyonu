@@ -14,6 +14,7 @@ Aynı zamanda normal kullanıcının erişemediği veritabanına erişim sağlay
 alakalı bilgiler içerecek.Örneğin kullanıcının adı,soyadı,tc kimlik numarası,mevcut konumu,maaşı vs.
 Bu erişimle beraber mevcut kullanıcıların bilgilerini güncelleyebilecek,kullanıcı kayıtlarını silebilecek 
 veya yeni kayıt ekleyebilecek.
+
 Bu otomasyon geliştirilirken C# ve MsSql dilleri kullanılacaktır.
 
 	
@@ -27,12 +28,5 @@ Bu otomasyon geliştirilirken C# ve MsSql dilleri kullanılacaktır.
 	
 	
 
-Proje İlerlenme Süreci
 
-1.Formun Tasarlanması (02.04.2022)
-2.Veritabanı bağlama süreci.(04.04.2022)
-3.Ürünler katagoresi oluşturulacak.(12.04.2022)
-4.Telefon stok bölümü ve güncelleme bölümü oluşturulacak.(19.04.2022)
-5.Telefon satış bölümü oluşturuldu ve taksit imkanı sağlandı faiz oranına göre.(Tek çekim - 6 taksit ve 12 taksit.) (30.04.2022)
-6.Satın alan kişinin kişisel bilgiler bölümü eklenecek. (05.05.2022)
-7.Tüm panellerin birbiri ile bağlantısı sağlanacak.(08.05.2022)
+
