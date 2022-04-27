@@ -18,15 +18,15 @@ veya yeni kayıt ekleyebilecek.
 Bu otomasyon geliştirilirken C# ve MsSQL dilleri kullanılacaktır.
 
 	
-	PROJEYE KATILAN ÖĞRENCİLER
+ PROJEYE KATILAN ÖĞRENCİLER
 	
-	192503035 - VEYSEL GÜVEN PARLAK - Veritabanı 
-	192503024 - OKAN ALPTÜRK - C# 	
-	192503034 - ABDULKADİR GÜLTEKİN	- Arayüz ve Form Tasarımı	
+ 192503035 - VEYSEL GÜVEN PARLAK - Veritabanı 
+ 192503024 - OKAN ALPTÜRK - C# 	
+ 192503034 - ABDULKADİR GÜLTEKİN	- Arayüz ve Form Tasarımı	
 	
-	USE CASE DİAGRAMI 
+  USE CASE DİAGRAMI 
 	
-	<img src="use-case-diagram.png">
+<img src="use-case-diagram.png">
 	
 
 	
