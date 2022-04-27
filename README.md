@@ -1,4 +1,4 @@
-	İnsan kaynakları bir çok şirketin sahip olduğu bir departmandır.Bu departman da bir çok departman gibi
+İnsan kaynakları bir çok şirketin sahip olduğu bir departmandır.Bu departman da bir çok departman gibi
 bir otomasyon sistemine sahip olmalıdır.Bu kapsamda işe alım/işten çıkarma gibi işlemler, işe alım için gerekli
 form uygulamaları gibi işlemleri kapsayan bir otomasyon sistemi tasarlıyoruz.Bu otomasyon sisteminde sistem 
 kullanıcılarının bir mesaj kutusu da olacak.Bu sayede birbirleriyle otomasyon üzerinden haberleşebilecekler.
