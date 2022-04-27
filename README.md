@@ -15,7 +15,7 @@ alakalı bilgiler içerecek.Örneğin kullanıcının adı,soyadı,tc kimlik num
 Bu erişimle beraber mevcut kullanıcıların bilgilerini güncelleyebilecek,kullanıcı kayıtlarını silebilecek 
 veya yeni kayıt ekleyebilecek.
 
-Bu otomasyon geliştirilirken C# ve MsSql dilleri kullanılacaktır.
+Bu otomasyon geliştirilirken C# ve MsSQL dilleri kullanılacaktır.
 
 	
 	PROJEYE KATILAN ÖĞRENCİLER
