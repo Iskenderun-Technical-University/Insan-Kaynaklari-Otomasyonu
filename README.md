@@ -15,11 +15,12 @@ alakalı bilgiler içerecek.Örneğin kullanıcının adı,soyadı,tc kimlik num
 Bu erişimle beraber mevcut kullanıcıların bilgilerini güncelleyebilecek,kullanıcı kayıtlarını silebilecek 
 veya yeni kayıt ekleyebilecek.
 
-
-PROJEYE KATILAN ÖĞRENCİLER
-192503035 - VEYSEL GÜVEN PARLAK
-192503024 - OKAN ALPTÜRK
-192503034 - ABDULKADİR GÜLTEKİN
+	
+	PROJEYE KATILAN ÖĞRENCİLER
+	
+	192503035 - VEYSEL GÜVEN PARLAK
+	192503024 - OKAN ALPTÜRK
+	192503034 - ABDULKADİR GÜLTEKİN
 
 Proje İlerlenme Süreci
 
