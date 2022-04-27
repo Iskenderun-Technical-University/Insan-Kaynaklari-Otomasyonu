@@ -24,7 +24,7 @@ Bu otomasyon geliştirilirken C# ve MsSql dilleri kullanılacaktır.
 	192503034 - ABDULKADİR GÜLTEKİN	- Arayüz ve Form Tasarımı	
 	
 	
-	![image0](https://user-images.githubusercontent.com/95311132/165538604-37689d63-338e-4c54-973b-8bf46386500a.jpeg)
+	[image0](https://user-images.githubusercontent.com/95311132/165538604-37689d63-338e-4c54-973b-8bf46386500a.jpeg)
 	
 	
 
