@@ -14,13 +14,16 @@ Aynı zamanda normal kullanıcının erişemediği veritabanına erişim sağlay
 alakalı bilgiler içerecek.Örneğin kullanıcının adı,soyadı,tc kimlik numarası,mevcut konumu,maaşı vs.
 Bu erişimle beraber mevcut kullanıcıların bilgilerini güncelleyebilecek,kullanıcı kayıtlarını silebilecek 
 veya yeni kayıt ekleyebilecek.
+Bu otomasyon geliştirilirken C# ve MsSql dilleri kullanılacaktır.
 
 	
 	PROJEYE KATILAN ÖĞRENCİLER
 	
-	192503035 - VEYSEL GÜVEN PARLAK
-	192503024 - OKAN ALPTÜRK
-	192503034 - ABDULKADİR GÜLTEKİN
+	192503035 - VEYSEL GÜVEN PARLAK - Veritabanı 
+	192503024 - OKAN ALPTÜRK - C# 	
+	192503034 - ABDULKADİR GÜLTEKİN	- Arayüz ve Form Tasarımı	
+	
+	
 
 Proje İlerlenme Süreci
 
